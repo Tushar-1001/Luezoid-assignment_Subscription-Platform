@@ -1,0 +1,24 @@
+[
+  {
+    "_id": "626ce8460b524bbcf9e55fc3",
+    "blogTitle": "What is HTML ?",
+    "blogDescription": "Learn HTML.",
+    "blogData": "HTML stands for HyperText Markup Language. It is used to design web pages using the markup language. HTML is the combination of Hypertext and Markup language. Hypertext defines the link between the web pages and markup language defines the text document within the tag that define the structure of web pages.",
+    "__v": 0
+  },
+  {
+    "_id": "626ce8d0ddb75edc7dc65a8d",
+    "blogTitle": "What is Machine Learning ?",
+    "blogDescription": "Learn Machine Learning.",
+    "blogData": "Machine Learning is the field of study that gives computers the capability to learn without being explicitly programmed. ML is one of the most exciting technologies that one would have ever come across. As it is evident from the name, it gives the computer that makes it more similar to humans: The ability to learn. Machine learning is actively being used today, perhaps in many more places than one would expect.",
+    "__v": 0
+  },
+  {
+    "_id": "626ce90e27eb85a7a099e3d3",
+    "blogTitle": "Competitive Programming – A Complete Guide",
+    "blogDescription": "Learn Competitive Programming.",
+    "blogData": "Competitive Programming is a mental sport which enables you to code a given problem under provided constraints. The purpose of this article is to guide every individual possessing a desire to excel in this sport. This article provides a detailed syllabus for Competitive Programming designed by industry experts to boost the preparation of the readers.",
+    "__v": 0
+  }
+  
+]
