@@ -25,13 +25,20 @@
   blogData: {string, mandatory}
 }
 ```
- - Postman sample
+  ### Postman samples
+ 
  ![A Postman collection sample](assets/blog.JPG)
-
+ 
  ![A Postman collection sample](assets/login.JPG)
 
  ![A Postman collection sample](assets/register.JPG)
  
  ![A Postman collection sample](assets/sendmail.JPG)
+ 
+ 
+ ### Email sample - Used Nodemailer for sending emails to the subscribers.
+ 
+
+  ![A Postman collection sample](assets/email.JPG)
 
 
