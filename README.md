@@ -33,7 +33,7 @@
 
  ![A Postman collection sample](assets/register.JPG)
  
- ![A Postman collection sample](assets/sendmail.JPG)
+ ![A Postman collection sample](assets/sendmail.jpg)
  
  
  ### Email sample - Used Nodemailer for sending emails to the subscribers.
