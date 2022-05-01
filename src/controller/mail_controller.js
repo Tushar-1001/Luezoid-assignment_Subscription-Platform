@@ -31,18 +31,21 @@ export const sendMail = async (req, res) => {
         to: recieverMail,
 
         subject: "Welcome to Coding Blogs!",
-        html: `<span style="color:white;text-align: center;background-color : #4CAF50; font-size : 30px; border: none; padding : 15px ;margin: 10px 20px;" > New Blogs Published </span> 
+        html: `style="color:white;text-align: center; background-color : #4CAF50; font-size : 20px;
+        border-radius: 1rem;  border: none; padding : 5px 14px ;margin: 10px 20px; display : inline-block" > New Blogs Published </span> 
         
         
-        <div style="color:white;padding : 10px;font-size:30px;background-color : #1d1d1d; display : flex; flex-wrap : wrap; align-items: stretch;justify-content: space-between;   margin: 20px 20px; ">${y} </div>
+        <div style="color:white;padding : 10px;font-size:20px; position: relative;
+        top: 9px; background-color : #1d1d1d;border-radius: 1rem; display : flex; flex-wrap : wrap; align-items: stretch;justify-content: space-between;   margin: 6px 20px;" >${y} </div>
         
 <button style = "width: 100px;
+border-radius: 1rem;
 height: 30px;
 font-size: 16px;
 background: #070543f0;
 border: none;
 color: #ffe3e3;
-margin-left: 20px; " role="button">Read More</button>`,
+margin: 7px 20px; " role="button">Read More</button>`,
       };
 
       transporter.sendMail(mailOptions, (err, data) => {
