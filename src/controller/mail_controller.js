@@ -31,7 +31,7 @@ export const sendMail = async (req, res) => {
         to: recieverMail,
 
         subject: "Welcome to Coding Blogs!",
-        html: `style="color:white;text-align: center; background-color : #4CAF50; font-size : 20px;
+        html: `<span style="color:white;text-align: center; background-color : #4CAF50; font-size : 20px;
         border-radius: 1rem;  border: none; padding : 5px 14px ;margin: 10px 20px; display : inline-block" > New Blogs Published </span> 
         
         
