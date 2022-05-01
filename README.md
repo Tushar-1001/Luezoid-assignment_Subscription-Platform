@@ -40,5 +40,10 @@
  
 
   ![A Postman collection sample](assets/email.JPG)
+  
+  ## Run Command - npm start
+  
+  ### 
+  
 
 
